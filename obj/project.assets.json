@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adenennis/Documents/GitHub/assignment/Weather-App/Weather-App.csproj",
+      "projectUniqueName": "/Users/adenennis/Documents/GitHub/assignment/Quiz_app/Weather-App.csproj",
       "projectName": "Weather-App",
-      "projectPath": "/Users/adenennis/Documents/GitHub/assignment/Weather-App/Weather-App.csproj",
+      "projectPath": "/Users/adenennis/Documents/GitHub/assignment/Quiz_app/Weather-App.csproj",
       "packagesPath": "/Users/adenennis/.nuget/packages/",
-      "outputPath": "/Users/adenennis/Documents/GitHub/assignment/Weather-App/obj/",
+      "outputPath": "/Users/adenennis/Documents/GitHub/assignment/Quiz_app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adenennis/.nuget/NuGet/NuGet.Config"
